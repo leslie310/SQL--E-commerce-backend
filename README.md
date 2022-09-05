@@ -11,3 +11,11 @@
 
 ## Example 
 ![ecommerce](https://user-images.githubusercontent.com/107505768/188503306-03fbf253-74ea-4832-8529-8f855888f8de.PNG)
+
+
+
+
+
+
+##LINK VIDEO
+[Get All Categories.zip](https://github.com/leslie310/SQL--E-commerce-backend/files/9491721/Get.All.Categories.zip)
